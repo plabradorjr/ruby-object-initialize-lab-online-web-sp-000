@@ -1,6 +1,5 @@
 class Dog
 
-att_
 
   def initialize(name, breed = "Mutt")
     @name = name
