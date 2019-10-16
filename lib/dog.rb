@@ -1,8 +1,10 @@
 class Dog
 
-  def initialize(arg = "Mutt")
-    @breed = arg
+att_
 
+  def initialize(name, breed = "Mutt")
+    @name = name
+    @breed = breed
   end
 
 
